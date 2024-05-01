@@ -1,2 +1,1 @@
-# cursos
-Repósitorio para salvar estudos
+Branch onde estarei resolvendo desafios propostos ao longo do curso.
